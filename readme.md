@@ -1,5 +1,5 @@
 # Weather Checker
-
+Demo Video: [Click here](https://www.linkedin.com/posts/abdullah-amjad-1-_html-css-js-activity-7243301278502572032-t3TV?utm_source=share&utm_medium=member_desktop)
 Welcome to the **Weather Checker** website tool! This tool provides real-time weather updates for cities worldwide using the [RapidAPI](https://rapidapi.com/) Weather API. It is built using Bootstrap and hosted on GitHub Pages.
 
 ## Features
